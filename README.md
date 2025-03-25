@@ -1,1 +1,2 @@
-This is a repository of work done for the Master's level course Deep Learning in Spring of 2025 at the UVA School of Data Science.
+## DS6050: Deep Learning
+This is a repository of work completed in Spring of 2025 for the School of Data Science Master's program.
